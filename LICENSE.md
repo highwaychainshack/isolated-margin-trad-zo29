@@ -1,4 +1,4 @@
-# 
+# AI-powered isolated-margin trading bot | backtesting + isolated-margin offers the most advanced isolated-margin trading bot, with backtesting and isolated-margin. Ideal for
 
 
 
